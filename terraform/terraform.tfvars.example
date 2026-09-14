@@ -1,0 +1,6 @@
+aws_region   = "ap-south-1"
+project_name = "yuva-week2-cloud-app"
+environment  = "dev"
+
+# Use a strong password locally. Do NOT commit the real tfvars file.
+db_password = "CHANGE_ME"
